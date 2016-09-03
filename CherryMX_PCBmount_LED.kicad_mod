@@ -34,4 +34,9 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 1.27 5.08) (size 1.4064 1.4064) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole rect (at -1.27 5.08) (size 1.4064 1.4064) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (model CherryMx.3dshapes/CherryMX_PCBmount_NoDiodeNoLED.wrl
+    (at (xyz 0 0 0.7))
+    (scale (xyz 0.3937007874015748031496062992126 0.3937007874015748031496062992126 0.3937007874015748031496062992126))
+    (rotate (xyz 0 0 0))
+  )
 )
